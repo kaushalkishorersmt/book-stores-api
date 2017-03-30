@@ -60,3 +60,4 @@ gem 'shoulda-matchers', '3.1.1'
 gem 'pg', '0.20.0'
 
 gem 'dotenv', '2.2.0'
+gem 'dotenv-rails', '2.2.0'
