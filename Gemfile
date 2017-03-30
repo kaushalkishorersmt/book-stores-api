@@ -61,3 +61,4 @@ gem 'pg', '0.20.0'
 
 gem 'dotenv', '2.2.0'
 gem 'dotenv-rails', '2.2.0'
+gem 'ffaker', '2.5.0'
